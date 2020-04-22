@@ -1,0 +1,27 @@
+{
+  "name": "realtime-chat",
+  "version": "1.0.0",
+  "description": "Realtime Chat  Salas e usuario utilizando Socket.io, Node &amp; Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luanrmuller/realtime-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luanrmuller/realtime-chat/issues"
+  },
+  "homepage": "https://github.com/luanrmuller/realtime-chat#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "qs": "^6.9.3",
+    "socket.io": "^2.3.0"
+  }
+}
