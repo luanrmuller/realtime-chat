@@ -20,7 +20,7 @@
   "homepage": "https://github.com/luanrmuller/realtime-chat#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "qs": "^6.9.3",
     "socket.io": "^2.3.0"
   }
